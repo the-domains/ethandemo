@@ -1,6 +1,6 @@
 name: EthanDemo
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.39072
 typography_spectrum: 0.86306
 title: null
 cta:
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8521165032871068
+  brandStrength: 0.8125
   lightness: 0.8713627245742828
   saturation: 0.47369194217026234
   rhythmicContrast: 0.7718161283992231
