@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Demo]]></title>
-        <description><![CDATA[Demo]]></description>
+        <title><![CDATA[EthanDemo]]></title>
+        <description><![CDATA[EthanDemo]]></description>
         <link>https://thegrid.ai/ethandemo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 19:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 19:22:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ethandemo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artificial Spider Silk Enters Mass Production for the First Time > ENGINEERING.com]]></title>
+            <description><![CDATA[<article><h1>Artificial Spider Silk Enters Mass Production for the First Time > ENGINEERING.com</h1><p>A thread of artificial spider silk, ready for weaving into textiles. (Image courtesy Bolt Threads.) Recreating spider silk for small scale applications isn't a new idea, but a California-based company claims to have found a way to mass produce artificial silk, no spiders necessary.</p><img src="http://www.engineering.com/portals/0/BlogFiles/BoltThread3.jpg"></article>]]></description>
+            <link>http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10692/Artificial-Spider-Silk-Enters-Mass-Production-for-the-First-Time.aspx#.VgBf40ej37g.linkedin</link>
+            <guid isPermaLink="false">4ee8c871-ed70-4895-a261-38c7c977a61f</guid>
+            <pubDate>Thu, 10 Dec 2015 19:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trending: New Fashion Innovations Include Textiles Made from Deadstock, Synthetic Spider Silk]]></title>
             <description><![CDATA[<article><h1>Trending: New Fashion Innovations Include Textiles Made from Deadstock, Synthetic Spider Silk</h1><p>A synthetic spider silk parka, luxury knitwear made from deadstock yarns, and one-of-a-kind pieces from unwanted locally sourced materials are the latest sustainable clothing options. The Moon Parka is the first product successfully made of synthetic spider silk materials - the result of over 11 years of research, 10 design iterations, and 656 gene synthesis designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05f2acab59fac06f067092627ab476dfd22ab171.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.sciencealert.com/this-infographic-shows-all-the-reasons-the-octopus-is-the-coolest-animal-ever</link>
             <guid isPermaLink="false">c50f1d0e-7ebe-45bc-97c0-1deee82746b3</guid>
             <pubDate>Thu, 10 Dec 2015 19:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Spider Silk Enters Mass Production for the First Time > ENGINEERING.com]]></title>
-            <description><![CDATA[<article><h1>Artificial Spider Silk Enters Mass Production for the First Time > ENGINEERING.com</h1><p>A thread of artificial spider silk, ready for weaving into textiles. (Image courtesy Bolt Threads.) Recreating spider silk for small scale applications isn't a new idea, but a California-based company claims to have found a way to mass produce artificial silk, no spiders necessary.</p><img src="http://www.engineering.com/portals/0/BlogFiles/BoltThread3.jpg"></article>]]></description>
-            <link>http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10692/Artificial-Spider-Silk-Enters-Mass-Production-for-the-First-Time.aspx#.VgBf40ej37g.linkedin</link>
-            <guid isPermaLink="false">4ee8c871-ed70-4895-a261-38c7c977a61f</guid>
-            <pubDate>Thu, 10 Dec 2015 19:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
