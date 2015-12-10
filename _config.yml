@@ -1,0 +1,28 @@
+name: EthanDemo
+favicon: null
+layout_spectrum: 0.3853048316668719
+typography_spectrum: 0.8325873499270529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8521165032871068
+  lightness: 0.8713627245742828
+  saturation: 0.47369194217026234
+  rhythmicContrast: 0.7718161283992231
+purpose: []
