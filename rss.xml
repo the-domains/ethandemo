@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[EthanDemo]]></title>
         <description><![CDATA[EthanDemo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ethandemo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 19:07:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 19:07:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ethandemo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trending: New Fashion Innovations Include Textiles Made from Deadstock, Synthetic Spider Silk]]></title>
+            <description><![CDATA[<article><h1>Trending: New Fashion Innovations Include Textiles Made from Deadstock, Synthetic Spider Silk</h1><p>A synthetic spider silk parka, luxury knitwear made from deadstock yarns, and one-of-a-kind pieces from unwanted locally sourced materials are the latest sustainable clothing options. The Moon Parka is the first product successfully made of synthetic spider silk materials - the result of over 11 years of research, 10 design iterations, and 656 gene synthesis designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05f2acab59fac06f067092627ab476dfd22ab171.jpg"></article>]]></description>
+            <link>http://www.sustainablebrands.com/news_and_views/chemistry_materials/hannah_furlong/trending_new_fashion_innovations_include_textiles_?mkt_tok=3RkMMJWWfF9wsRoluqvIZKXonjHpfsX66OwlX6a+lMI%2F0ER3fOvrPUfGjI4FRMVmI+SLDwEYGJlv6SgFTrTBMbVxyLgOXxk%3D</link>
+            <guid isPermaLink="false">1f6abe3e-c189-4044-9f2b-1c468913f696</guid>
+            <pubDate>Thu, 10 Dec 2015 19:07:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This infographic shows all the reasons the octopus is the coolest animal ever]]></title>
             <description><![CDATA[<article><h1>This infographic shows all the reasons the octopus is the coolest animal ever</h1><p>It's no surprise to regular ScienceAlert readers that octopuses (yes, that is the plural form of the word) are the geniuses of the ocean. Over recent years we've seen these cephalopods do everything from predicting the winners of the world cup and taking photos, to using a seashell as a weapon in a battle against its own kind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25d572ef0ae5f9fc4b2fc473920c4fa198425206.jpg"></article>]]></description>
