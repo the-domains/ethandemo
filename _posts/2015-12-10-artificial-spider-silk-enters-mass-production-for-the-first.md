@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.engineering.com'
   name: Engineering
-  favicon: 'http://www.engineering.com/favicon.ico'
   domain: www.engineering.com
+  url: 'http://www.engineering.com'
+  favicon: 'http://www.engineering.com/favicon.ico'
 keywords:
   - silk
   - spider
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10692/Artificial-Spider-Silk-Enters-Mass-Production-for-the-First-Time.aspx#.VgBf40ej37g.linkedin'
 title: 'Artificial Spider Silk Enters Mass Production for the First Time > ENGINEERING.com'
-datePublished: '2015-12-10T19:21:06.794Z'
-dateModified: '2015-12-10T19:18:20.317Z'
+datePublished: '2015-12-10T19:22:45.614Z'
+dateModified: '2015-12-10T19:22:36.923Z'
 sourcePath: _posts/2015-12-10-artificial-spider-silk-enters-mass-production-for-the-first.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
