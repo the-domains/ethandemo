@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EthanDemo]]></title>
+        <description><![CDATA[EthanDemo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 19:07:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This infographic shows all the reasons the octopus is the coolest animal ever]]></title>
+            <description><![CDATA[<article><h1>This infographic shows all the reasons the octopus is the coolest animal ever</h1><p>It's no surprise to regular ScienceAlert readers that octopuses (yes, that is the plural form of the word) are the geniuses of the ocean. Over recent years we've seen these cephalopods do everything from predicting the winners of the world cup and taking photos, to using a seashell as a weapon in a battle against its own kind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25d572ef0ae5f9fc4b2fc473920c4fa198425206.jpg"></article>]]></description>
+            <link>http://www.sciencealert.com/this-infographic-shows-all-the-reasons-the-octopus-is-the-coolest-animal-ever</link>
+            <guid isPermaLink="false">c50f1d0e-7ebe-45bc-97c0-1deee82746b3</guid>
+            <pubDate>Thu, 10 Dec 2015 19:07:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
